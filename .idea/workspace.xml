@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="325d5183-0032-4132-897c-e51eb9970d29" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HandleMain.java" afterPath="$PROJECT_DIR$/src/HandleMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Wc.java" afterPath="$PROJECT_DIR$/src/Wc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/WcTest.java" afterPath="$PROJECT_DIR$/test/WcTest.java" />
-    </list>
+    <list default="true" id="325d5183-0032-4132-897c-e51eb9970d29" name="Default" comment="" />
     <ignored path="wc.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +24,7 @@
       <file leaf-file-name="WcTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/WcTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03327172">
+            <state vertical-scroll-proportion="-1.0295749">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
@@ -526,7 +522,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/WcTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03327172">
+        <state vertical-scroll-proportion="-1.0295749">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
