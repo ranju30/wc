@@ -1,5 +1,4 @@
 import org.junit.Test;
-import src.*;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,5 +1,3 @@
-package src;
-
 public class Wc {
 	public int countLines(String text){
 		return (text.split("\\n\r?")).length;
